@@ -1,0 +1,10 @@
+⬢  Node Task List
+? Select a task to run: (Use arrow keys)
+❯ test:watch 
+  test:load-envs 
+  test:seed 
+  dev:load-envs 
+  dev:migration:run 
+  dev:migration:generate 
+  dev:seed 
+(Move up and down to reveal more choices)[41D[41C

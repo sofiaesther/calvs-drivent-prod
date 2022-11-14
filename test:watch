@@ -1,0 +1,18 @@
+⬢  Node Task List
+? Select a task to run: (Use arrow keys)
+❯ build 
+  start 
+  migration:run 
+  migration:generate 
+  lint 
+  lint:staged 
+  test 
+(Move up and down to reveal more choices)[41D[41C[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[1A[2K[G? Select a task to run: build[29D[29C
+
+> drint.t-back@1.0.0 prebuild
+> rm -rf dist
+
+
+> drint.t-back@1.0.0 build
+> ttsc -p tsconfig.build.json
+
